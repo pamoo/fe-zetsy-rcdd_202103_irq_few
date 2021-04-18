@@ -29,6 +29,7 @@ body {
    margin-bottom: 5px;
    padding-bottom: 10px;
   font-family: 'Baskerville', serif;
+  font-weight: normal;
 }
 .a:hover {
   color: #6F7F7A;
