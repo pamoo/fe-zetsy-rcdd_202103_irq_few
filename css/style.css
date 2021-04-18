@@ -51,3 +51,6 @@ h2 {
     font-size: 32px;
     font-weight: bold;
 }
+#press a:hover {
+  border: 2px solid black;
+}
