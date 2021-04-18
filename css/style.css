@@ -23,7 +23,10 @@ body {
   text-decoration: none;
   font-size:80px;
   color: rgb(152,173,166);
-   margin: 0px 5px 0px;
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-top: 0px;
+   margin-bottom: 5px;
   font-family: 'Baskerville', serif;
 }
 .a:hover {
