@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-a{
+.header a{
   text-decoration: none;
   font-size:80px;
   color: rgb(152,173,166);
