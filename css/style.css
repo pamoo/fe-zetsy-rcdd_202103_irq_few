@@ -52,8 +52,7 @@ h2 {
     font-weight: bold;
 }
 #press img{
-  border: 4px solid #020202;
-  opacity: 60%;
+  border: 4px solid gray;
 }
 #press img:hover {
   border: 4px solid black;
