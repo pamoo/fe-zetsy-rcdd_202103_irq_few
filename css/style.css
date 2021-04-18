@@ -34,6 +34,10 @@ body {
 .a:hover {
   color: #6F7F7A;
 }
+.pa{
+  color: #1783BD;
+  text-decoration: none;
+}
 .pa:hover {
   color: #1783BD;
   text-decoration: underline;
