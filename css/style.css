@@ -34,6 +34,10 @@ body {
 .a:hover {
   color: #6F7F7A;
 }
+.pa:hover {
+  color: #1783BD;
+  text-decoration: underline;
+}
 .solid{
   border-top: 1px solid #bbb;
 }
