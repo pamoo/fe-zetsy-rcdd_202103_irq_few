@@ -51,6 +51,6 @@ h2 {
     font-size: 32px;
     font-weight: bold;
 }
-#press img,a:hover {
+#press img:hover {
   border: 2px solid black;
 }
